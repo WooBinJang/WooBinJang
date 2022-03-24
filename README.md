@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!!%20🥳&fontSize=50&animation=twinkling)
 
 <h3 align="center">💡 Contact & Channel 💡</h3>
   <p align="center">
