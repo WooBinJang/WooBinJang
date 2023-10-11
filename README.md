@@ -3,7 +3,7 @@
 <h3 align="center">💡 Contact & Channel 💡</h3>
   <p align="center">
   <a href="https://velog.io/@jwb4497"><img src="https://img.shields.io/badge/Blog-11B48A?         style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@easyhwan"/></a>&nbsp
-   <a href="https://freezing-yak-e10.notion.site/967b09117a27466fb5fd34f840fe1734">
+   <a href="https://freezing-yak-e10.notion.site/d2553e91b730467f896f5ee288d2b5ed?pvs=4">
   <img 
         src="http://img.shields.io/badge/-Notion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
